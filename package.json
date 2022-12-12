@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/rahulcocoalabs/itask-chat#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http": "0.0.1-security",
     "nodemon": "^2.0.4",
     "socket.io": "^2.3.0"
